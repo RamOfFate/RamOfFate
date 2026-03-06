@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RamOfFate/RamOfFate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm RamOfFate!
+### Web Development Student @ ESPRIT 
 
-Here are some ideas to get you started:
+<img src="https://github.com/user-attachments/assets/dec34a0b-7908-4222-b51a-d52ad65b6b98" width="100%" alt="RamOfFate Banner" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Turning caffeine into code and ideas into interactive experiences."*
+
+---
+
+### 🚀 About Me
+- 🎓 Currently pursuing my degree in **Web Development** at ESPRIT.
+- 💻 Passionate about building responsive, user-friendly web applications.
+- 🎨 Interested in both Frontend aesthetics and Backend logic.
+- 🛠️ Always looking for cool open-source projects to contribute to.
+
+### 🛠️ Tech Stack
+| Frontend | Backend | Tools |
+| :--- | :--- | :--- |
+| HTML5 / CSS3 | Node.js / Express | Git / GitHub |
+| JavaScript (ES6+) | SQL / NoSQL | VS Code |
+| React.js (Learning) | PHP / Symfony | Postman |
+
+### 📊 GitHub Stats
+![RamOfFate's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamOfFate&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamOfFate&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ramoffate@gmail.com)
+
+</div>
