@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm RamOfFate!
+# Hi there, Thank you for giving my profile a look!
 ### Web Development Student @ ESPRIT 
 
 <img src="https://github.com/user-attachments/assets/dec34a0b-7908-4222-b51a-d52ad65b6b98" width="100%" alt="RamOfFate Banner" />
