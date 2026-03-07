@@ -13,14 +13,7 @@
 - 🎓 Currently pursuing my degree in **Web Development** at ESPRIT.
 - 💻 Passionate about building responsive, user-friendly web applications.
 - 🎨 Interested in both Frontend aesthetics and Backend logic.
-- 🛠️ Always looking for cool open-source projects to contribute to.
 
-### 🛠️ Tech Stack
-| Frontend | Backend | Tools |
-| :--- | :--- | :--- |
-| HTML5 / CSS3 | Node.js / Express | Git / GitHub |
-| JavaScript (ES6+) | SQL / NoSQL | VS Code |
-| React.js (Learning) | PHP / Symfony | Postman |
 
 ### 📊 GitHub Stats
 ![RamOfFate's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamOfFate&show_icons=true&theme=radical)
