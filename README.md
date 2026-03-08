@@ -10,10 +10,11 @@
 ---
 
 ### 🚀 About Me
+<div align="left">
 - 🎓 Currently pursuing my degree in **Web Development** at ESPRIT.
 - 💻 Passionate about building responsive, user-friendly web applications.
 - 🎨 Interested in both Frontend aesthetics and Backend logic.
-
+</div>
 
 ### 📊 GitHub Stats
 ![RamOfFate's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamOfFate&show_icons=true&theme=radical)
